@@ -40,5 +40,5 @@
 
   <br />
   <br />
-  <sub>"Construindo o futuro da sua marca, um pixel de cada vez."</sub>
+ 
 </div>
