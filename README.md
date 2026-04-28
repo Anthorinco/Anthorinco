@@ -4,7 +4,7 @@
   ### 🚀 Desenvolvedor Front-End focado em Interfaces de Alta Conversão
 
   [![Portfólio](https://img.shields.io/badge/VISITE_MEU_PORTFOLIO-8CB369?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pi-plum-16.vercel.app)
-  [![Email](https://img.shields.io/badge/ME_MANDE_UM_EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonicarvalho30@gmail.com)
+  [![Email](anthonicarvalho30@gmail.com)
 </div>
 
 ---
