@@ -4,7 +4,6 @@
   ### 🚀 Desenvolvedor Front-End focado em Interfaces de Alta Conversão
 
   [![Portfólio](https://img.shields.io/badge/VISITE_MEU_PORTFOLIO-8CB369?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pi-plum-16.vercel.app)
-  
 </div>
 
 ---
@@ -27,19 +26,18 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Anthorinco&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&icon_color=8CB369&text_color=a1a1aa" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Anthorinco&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&icon_color=8CB369&text_color=a1a1aa&include_all_commits=true&count_private=true&cache_seconds=1800" width="100%" />
     </td>
   </tr>
 </table>
-
 
 ---
 
 <div align="center">
   <h3>💻 Linguagens mais utilizadas</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthorinco&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&text_color=a1a1aa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthorinco&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&text_color=a1a1aa&cache_seconds=1800" />
 
   <br />
   <br />
- 
+  <sub>"Construindo o futuro da sua marca, um pixel de cada vez."</sub>
 </div>
