@@ -26,7 +26,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.shion.dev/api?username=Anthorinco&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&icon_color=8CB369&text_color=a1a1aa&include_all_commits=true&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-git-master-denvercoder1s-projects.vercel.app/api?username=Anthorinco&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&icon_color=8CB369&text_color=a1a1aa&include_all_commits=true&count_private=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 
 <div align="center">
   <h3>💻 Linguagens mais utilizadas</h3>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anthorinco&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&text_color=a1a1aa" />
+  <img src="https://github-readme-stats-git-master-denvercoder1s-projects.vercel.app/api/top-langs/?username=Anthorinco&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0a&title_color=8CB369&text_color=a1a1aa" />
 
   <br />
   <br />
