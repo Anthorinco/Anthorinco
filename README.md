@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=8CB369&height=150&section=header&text=Anthoni%20Carvalho&fontSize=60&fontAlignY=50&animation=fadeIn" />
 
-  ### 🚀 Desenvolvedor Front-End focado em Interfaces de Alta Conversão
+  <h3>🚀 Desenvolvedor Front-End focado em Interfaces de Alta Conversão</h3>
 
-  [![Portfólio](https://img.shields.io/badge/VISITE_MEU_PORTFOLIO-8CB369?style=for-the-badge&logo=vercel&logoColor=black)]([https://portfolio-pi-plum-16.vercel.app](https://anthonidev-portfolio.vercel.app/))
+  <a href="https://anthonidev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VISITE_MEU_PORTFOLIO-8CB369?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfólio" />
+  </a>
 </div>
 
 ---
